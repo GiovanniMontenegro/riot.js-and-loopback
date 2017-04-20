@@ -1,0 +1,4 @@
+npm install -g riot
+
+#To build the js
+riot ./client/tags ./client/build/bundle.js

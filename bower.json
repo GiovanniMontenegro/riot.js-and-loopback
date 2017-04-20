@@ -1,0 +1,25 @@
+{
+  "name": "auriga-me",
+  "description": "auriga-me",
+  "main": "server/server.js",
+  "authors": [
+    "Giovanni Montenegro"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "promise-polyfill": "^6.0.2",
+    "fetch": "^2.0.3",
+    "riot": "^3.4.0",
+    "lodash": "^4.17.4"
+  }
+}

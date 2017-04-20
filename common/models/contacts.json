@@ -1,0 +1,30 @@
+{
+  "name": "contacts",
+  "plural": "contacts",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "surname": {
+      "type": "string"
+    },
+    "number": {
+      "type": "string"
+    },
+    "alias": {
+      "type": "string"
+    },
+    "search_key": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
