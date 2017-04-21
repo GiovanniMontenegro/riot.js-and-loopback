@@ -1,6 +1,6 @@
 {
-  "name": "auriga-me",
-  "description": "auriga-me",
+  "name": "example",
+  "description": "example",
   "main": "server/server.js",
   "authors": [
     "Giovanni Montenegro"
